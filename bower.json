@@ -1,0 +1,28 @@
+{
+  "name": "revolt.trumps.visibility",
+  "homepage": "https://github.com/revolt-framework/trumps.visibility",
+  "authors": [
+    {
+      "name": "Ruven Pelka",
+      "email": "ruven.pelka@gmail.com",
+      "homepage": "http://ruvenpelka.com"
+    }
+  ],
+  "description": "Revolt framework's visibility utilities.",
+  "main": "_trumps.visibility.scss",
+  "keywords": [
+    "revolt",
+    "oocss",
+    "css",
+    "visible",
+    "invisible",
+    "visibility",
+    "hide",
+    "hidden"
+  ],
+  "dependencies": {
+    "revolt.settings.defaults": "0.x.x",
+    "revolt.settings.responsive": "0.x.x"
+  },
+  "license": "MIT"
+}
